@@ -1,0 +1,4 @@
+name = Cordova News Service
+description = Provides a news web service for cordova apps
+core = 7.x
+dependencies[] = services
